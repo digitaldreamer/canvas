@@ -3,13 +3,13 @@ html, body {
 }
 
 #container {
-	width: 400px;
+	width: 150px;
 	margin: 50px auto;
 }
 
 #tutorial {
 	border: 1px solid #000;
-	width: 400px;
-	height: 400px;
+	width: 150px;
+	height: 150px;
 	background-color: #fff;
 }
